@@ -30,3 +30,12 @@
 
 # Debug files
 *.dSYM/
+
+# CMake
+build
+
+# Mac
+.DS_Store
+
+# IDE / Editors
+.idea
